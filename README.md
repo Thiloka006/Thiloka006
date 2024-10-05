@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thiloka006
 - 👀 I’m interested in create systems and coding 
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering (2 sem)
 
 <!---
 Thiloka006/Thiloka006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
